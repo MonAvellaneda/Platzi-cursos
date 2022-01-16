@@ -26,6 +26,15 @@ No es posible producir tecnología si de base no tenemos un conocimiento que hay
 
 ### Nuestra definición de tecnología: 
 
+Concepto de tecnología que tendremos en mente y presente. Es un concepto que no se inclina solamente en la definición de tecnología como ciencia ni solamente en la definición de tecnología como un artefacto. Es más bien un concepto que no es excluyente y que me permite tener en cuenta diferentes factores. 
+
+> Es una solución tangible o intangible, resultado de un proceso en el que se incluyen factores científicos, técnicos y sociales para dar respuesta a una problemática o reto específico. 
+
+Tener muy presente la tarea de la tecnología:  
+> ... la tarea de la tecnología: la búsqueda sistemática de lo óptimo dentro de un campo de posibilidades - _Mockus, 1983_
+
+
+
 
 
 
