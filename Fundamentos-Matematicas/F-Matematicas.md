@@ -18,14 +18,29 @@ Muchas veces surge la pregunta: ¿dónde aplico una derivada? ¿dónde aplico un
 
 * Vamos a ver cómo de pequeñas ideas, se van formando pensamientos e ideas más complejas y más interesantes que nos permitirán desarrollar diferentes problemas.  
 
-##### **El objetivo de este curso es que entendamos por qué se desarrollaron las gráficas y cómo entender la gráfica de una función, por ejemplo.**
+#### **El objetivo de este curso es que entendamos por qué se desarrollaron las gráficas y cómo entender la gráfica de una función, por ejemplo.**
 
 [slides](https://static.platzi.com/media/public/uploads/slides-funda-mate_0db95502-a8be-4a3e-b74d-13ef8f5e3957.pdf)  
 
 
-
-
 ### Operaciones básicas de matemáticas  
+
+* Breve repaso sobre qué es la aritmética.  
+
+* Conoceremos las 4 operaciones fundamentales.  
+
+* Veremos algunas operaciones adicionales que se desprenden de las operaciones básicas.  
+
+* Cómo se repreenta gráficamente.   
+
+* Veremos cómo poco a poco vamos construyendo conocimiento. Si tenemos estos conocimientos superclaros, todo lo que venga después nos resultará más fácil de entender. 
+
+**¿Qué es la aritmética?**  
+Es una rama de las matemáticas que estudia los números y las operaciones que se pueden realizar con ellos.  
+Los números surgieron simplemente de la necesidad de contar cosas.  
+![img](https://static.platzi.com/media/user_upload/aritmetica-72736c81-8db3-429b-93e7-1bda75a859db.jpg) <br></br>
+**Dentro de las operaciones que podemos realizar con los números encontramos cuatro operaciones básicas:**  
+
 ### Potenciación y sus propiedades  
 ### Radicación y sus propiedades  
 ### Orden de operaciones  
